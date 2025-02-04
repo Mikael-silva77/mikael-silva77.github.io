@@ -61,7 +61,7 @@
     }
 </style>
 
-<h1 id="noticias">Notícias Recentes - UEFA Champions League</h1>
+<h1 id="noticias">Notíciass Recentes - UEFA Champions League</h1>
 <div class="container">
     <div class="news-card">
         <img src="https://via.placeholder.com/600x300" alt="Sorteio dos Playoffs da Champions League">
