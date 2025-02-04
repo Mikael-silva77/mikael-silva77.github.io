@@ -70,7 +70,7 @@
         <h3>Liverpool</h3>
         <p>Estádio: Anfield</p>
         <p>Localização: Liverpool, Inglaterra</p>
-        <img class="stadium-image" src="/caption.jpg">
+        <img class="stadium-image" src="/estadio.liv.jpg">
     </div>
     <div class="stadium-card">
         <h3>Barcelona</h3>

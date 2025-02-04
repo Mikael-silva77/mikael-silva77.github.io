@@ -64,7 +64,7 @@
 <h1 id="noticias">Notíciass Recentes - UEFA Champions League</h1>
 <div class="container">
     <div class="news-card">
-        <img src="https://via.placeholder.com/600x300" alt="Sorteio dos Playoffs da Champions League">
+       
         <h3>Sorteio dos Playoffs da Champions League</h3>
         <p>Na última sexta-feira (31 de janeiro), a UEFA realizou o sorteio dos playoffs da Champions League. Os confrontos serão disputados entre 11 e 19 de fevereiro...</p>
         <a href="https://www.terra.com.br/esportes/futebol/internacional/uefa-define-duelos-dos-playoffs-da-champions-league-confira-os-confrontos%2C0f9b8483917db98aa5b32d6c3f330aa7dw6gt1jq.html" target="_blank">
@@ -72,7 +72,7 @@
         </a>
     </div>
     <div class="news-card">
-        <img src="https://via.placeholder.com/600x300" alt="Datas dos Próximos Sorteios">
+  
         <h3>Datas dos Próximos Sorteios</h3>
         <p>Após a conclusão dos playoffs, a UEFA realizará o sorteio das oitavas de final em 21 de fevereiro. As partidas de ida estão programadas para 4 e 5 de março...</p>
         <a href="https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/quando-serao-os-sorteios-das-proximas-fases-da-champions-league-2024-2025-veja-datas/" target="_blank">

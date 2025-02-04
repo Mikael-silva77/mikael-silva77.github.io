@@ -173,7 +173,7 @@
         <div class="section-title">Times Participantes</div>
         <div class="team-gallery">
             <div class="team-card">
-                <img src="/r1134758_1296x729_16-9.jpg" alt="Liverpool">
+                <img src="/liverpool.jpg" alt="Liverpool">
                 <h3>Liverpool</h3>
             </div>
             <div class="team-card">
@@ -181,7 +181,8 @@
                 <h3>Barcelona</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Atletico_Madrid_logo.svg" alt="Atlético de Madrid">
+                <img src="/atletico de ma.webp" alt="Atlético de Madrid">
+             
                 <h3>Atlético de Madrid</h3>
             </div>
             <div class="team-card">
@@ -189,7 +190,7 @@
                 <h3>Arsenal</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Bayer_04_Leverkusen.svg" alt="Bayer Leverkusen">
+                <img src="/bayer leverkusen.jpg "alt="Bayer Leverkusen">
                 <h3>Bayer Leverkusen</h3>
             </div>
             <div class="team-card">
