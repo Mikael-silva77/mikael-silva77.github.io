@@ -2,7 +2,7 @@
 <style>
     body {
         font-family: 'Arial', sans-serif;
-        background-color: #003A5C; /* Azul escuro */
+        background-color: #003A5C; 
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -12,7 +12,7 @@
         color: white;
     }
     h1 {
-        color: #ffffff;
+        color: #003366;
         font-size: 3em;
         margin-top: 50px;
         margin-bottom: 40px;
@@ -20,9 +20,8 @@
     }
     .container {
         display: flex;
-        flex-wrap: wrap; /* Permite que os cartões fiquem em várias linhas */
-        justify-content: center; /* Centraliza os cartões */
-        gap: 25px;
+        flex-wrap: wrap; 
+        justify-content: center;
         margin-top: 20px;
         width: 90%;
         max-width: 1200px;
@@ -32,13 +31,13 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 45%; /* Cada cartão ocupa 45% da largura, deixando espaço para 2 por linha */
-        background-color: #003A5C; /* Fundo azul escuro para os estádios */
+        width: 45%; 
+        background-color: #003A5C; 
         padding: 20px;
         border-radius: 15px;
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
-        border: 2px solid #ffffff; /* Borda branca para destacar o cartão */
+        border: 2px solid #ffffff;
     }
     .stadium-card:hover {
         transform: translateY(-10px);
@@ -46,13 +45,13 @@
     }
     .stadium-card h3 {
         font-size: 2em;
-        color: #ffffff; /* Título em branco para contraste */
+        color: #ffffff;
         margin-bottom: 10px;
         font-weight: bold;
     }
     .stadium-card p {
         font-size: 1.2em;
-        color: #ffffff; /* Texto em branco */
+        color: #ffffff; 
         margin: 5px 0;
     }
     .stadium-image {
@@ -76,54 +75,54 @@
         <h3>Barcelona</h3>
         <p>Estádio: Camp Nou</p>
         <p>Localização: Barcelona, Espanha</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Camp_Nou_2021.jpg" alt="Camp Nou">
+        <img class="stadium-image" src="/Spain_Catalonia_Barcelona_Nou_Camp_2.jpg" alt="Camp Nou">
     </div>
     <div class="stadium-card">
         <h3>Atlético de Madrid</h3>
         <p>Estádio: Wanda Metropolitano</p>
         <p>Localização: Madrid, Espanha</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Wanda_Metropolitano_2017.jpg" alt="Wanda Metropolitano">
+        <img class="stadium-image" src="/estadio-wanda-metropolitano-m.avif" alt="Wanda Metropolitano">
     </div>
     <div class="stadium-card">
         <h3>Atalanta</h3>
         <p>Estádio: Gewiss Stadium</p>
         <p>Localização: Bérgamo, Itália</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Stadio_Gewiss.jpg" alt="Gewiss Stadium">
+        <img class="stadium-image" src="/atalanta.jpg" alt="Gewiss Stadium">
     </div>
     <div class="stadium-card">
         <h3>Arsenal</h3>
         <p>Estádio: Emirates Stadium</p>
         <p>Localização: Londres, Inglaterra</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Emirates_Stadium_in_2011.jpg" alt="Emirates Stadium">
+        <img class="stadium-image" src="/estadio arsenal.jpg" alt="Emirates Stadium">
     </div>
     <div class="stadium-card">
         <h3>Bayer Leverkusen</h3>
         <p>Estádio: BayArena</p>
         <p>Localização: Leverkusen, Alemanha</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/BayArena_Leverkusen.jpg" alt="BayArena">
+        <img class="stadium-image" src="/estadio bayer leve.jpg" alt="BayArena">
     </div>
     <div class="stadium-card">
         <h3>Internazionale</h3>
         <p>Estádio: San Siro</p>
         <p>Localização: Milão, Itália</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/1/18/San_Siro_Milan.jpg" alt="San Siro">
+        <img class="stadium-image" src="/inter.estadio.jpg" alt="San Siro">
     </div>
     <div class="stadium-card">
         <h3>Aston Villa</h3>
         <p>Estádio: Villa Park</p>
         <p>Localização: Birmingham, Inglaterra</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Villa_Park_2015.jpg" alt="Villa Park">
+        <img class="stadium-image" src="/aston.jpg" alt="Villa Park">
     </div>
     <div class="stadium-card">
         <h3>Brest</h3>
         <p>Estádio: Stade Francis-Le Ble</p>
         <p>Localização: Brest, França</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Stade_Francis-Le_Ble.jpg" alt="Stade Francis-Le Ble">
+        <img class="stadium-image" src="/brest.jpg" alt="Stade Francis-Le Ble">
     </div>
     <div class="stadium-card">
         <h3>Monaco</h3>
         <p>Estádio: Stade Louis II</p>
         <p>Localização: Mônaco</p>
-        <img class="stadium-image" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Stade_Louis_II_2015.jpg" alt="Stade Louis II">
+        <img class="stadium-image" src="/monaco.jpg" alt="Stade Louis II">
     </div>
 </div>

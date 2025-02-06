@@ -2,17 +2,17 @@
 <style>
     body {
         font-family: 'Arial', sans-serif;
-        background-color: #003A5C; /* Azul escuro */
+        background-color: #003A5C;
         display: flex;
         flex-direction: column;
         align-items: center;
         margin: 0;
         padding: 0;
         text-align: center;
-        color: white;
+        color: rgb(6, 5, 68);
     }
     h1 {
-        color: #ffffff;
+        color: #003366;
         font-size: 3em;
         margin-top: 50px;
         margin-bottom: 40px;
@@ -32,7 +32,7 @@
         justify-content: space-between;
         align-items: center;
         width: 80%;
-        background-color: #0061F2; /* Azul vibrante */
+        background-color: #0061F2;
         padding: 20px;
         border-radius: 15px;
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
@@ -155,3 +155,4 @@
         </a>
     </div>
 </div>
+

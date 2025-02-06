@@ -7,9 +7,7 @@
             text-align: center;
             color: #333;
         }
-
-        /* Barra de navegação */
-        nav {
+      nav {
             background-color: #003A5C;
             width: 100%;
             padding: 15px 0;
@@ -59,7 +57,7 @@
             color: #0061F2;
         }
 
-        /* Seção Hero */
+    
         .hero-section {
             background-color: #003A5C;
             color: white;
@@ -70,7 +68,7 @@
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
         }
 
-        /* Galeria de Times */
+  
         .team-gallery {
             display: flex;
             flex-wrap: wrap;
@@ -114,7 +112,6 @@
             transform: scale(1.1);
         }
 
-        /* Links das seções */
         .section-link {
             text-decoration: none;
             color: #003A5C;
@@ -134,7 +131,7 @@
             color: white;
         }
 
-        /* Layout do conteúdo */
+     
         .container {
             margin-top: 160px;
             padding: 20px;
@@ -149,7 +146,7 @@
     </style>
 
 
-    <!-- Barra de navegação -->
+  
     <nav>
         <div class="logo-container">
        
@@ -162,13 +159,13 @@
         </ul>
     </nav>
 
-    <!-- Seção Hero -->
+  
     <div class="hero-section">
         <h1>Bem-vindo à UEFA Champions League</h1>
         <p>Acompanhe os melhores times, jogos e classificações da competição mais emocionante da Europa.</p>
     </div>
 
-    <!-- Seção Galeria de Times -->
+   
     <div class="container">
         <div class="section-title">Times Participantes</div>
         <div class="team-gallery">
@@ -177,7 +174,7 @@
                 <h3>Liverpool</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/FC_Barcelona_%28logo%29.svg" alt="Barcelona">
+                <img src="/barcelona.jpg" alt="Barcelona">
                 <h3>Barcelona</h3>
             </div>
             <div class="team-card">
@@ -186,15 +183,15 @@
                 <h3>Atlético de Madrid</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Arsenal_FC.svg" alt="Arsenal">
+                <img src="/arsenal.jpg" alt="Arsenal">
                 <h3>Arsenal</h3>
             </div>
             <div class="team-card">
                 <img src="/bayer leverkusen.jpg "alt="Bayer Leverkusen">
-                <h3>Bayer Leverkusen</h3>
+                <h3>Bayer LeverkuseSn</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/FC_Internazionale_Milano_logo.svg" alt="Internazionale">
+                <img src="/inter.jpg" alt="Internazionale">
                 <h3>Internazionale</h3>
             </div>
         </div>

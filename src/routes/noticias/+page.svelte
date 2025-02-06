@@ -61,7 +61,7 @@
     }
 </style>
 
-<h1 id="noticias">Notíciass Recentes - UEFA Champions League</h1>
+<h1 id="noticias">Notícias Recentes - UEFA Champions League</h1>
 <div class="container">
     <div class="news-card">
        
@@ -80,7 +80,7 @@
         </a>
     </div>
     <div class="news-card">
-        <img src="https://via.placeholder.com/600x300" alt="Benfica Derrota Juventus">
+     
         <h3>Benfica Derrota Juventus</h3>
         <p>Em 29 de janeiro, o Benfica venceu a Juventus por 2 a 0 no Allianz Stadium, em Turim. Com gols de Vangelis Pavlidis e Orkun Kokçu...</p>
         <a href="https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/champions-juventus-perde-para-benfica-e-pode-pegar-milan-nos-playoffs/" target="_blank">
@@ -88,7 +88,7 @@
         </a>
     </div>
     <div class="news-card">
-        <img src="https://via.placeholder.com/600x300" alt="Lille Goleia Feyenoord">
+       
         <h3>Lille Goleia Feyenoord</h3>
         <p>O Lille assegurou sua vaga nas oitavas de final ao derrotar o Feyenoord por 6 a 1 em casa. A equipe francesa terminou entre os oito melhores da fase de grupos...</p>
         <a href="https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/" target="_blank">
